@@ -1,2 +1,3 @@
-# chattyBot
-A rather simple chatty bot I created to play with my girlfriend in order to convince her to type an acceptable answer.
+<h1 align="center">chattyBot</h1>
+
+<p align="center">A rather simple chatty bot I created to play with my girlfriend in order to convince her to type an acceptable answer.</p>
