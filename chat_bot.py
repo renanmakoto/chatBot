@@ -1,4 +1,5 @@
 from time import sleep
+
 x = input("\033[1;30mWould you like to watch a class with me? \n 1 - Yes \n 2 - No \n")
 if x == "1":
     sleep(1)
