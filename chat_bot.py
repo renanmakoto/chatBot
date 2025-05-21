@@ -60,4 +60,5 @@ while x != "1" and x != "2":
             print("\033[1;33mToo bad... \033[1;30mAt least you chose 1 or 2.")
             sleep(1)
             break
+            
 print("\033[1;36mThank you!.")
