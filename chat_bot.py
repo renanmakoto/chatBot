@@ -43,6 +43,7 @@ while x != "1" and x != "2":
         sleep(1)
         print("\033[1;30mType only 1 or 2.")
         sleep(1)
+        
         x = input("\033[1;30mOnce again, would you like to watch a class with me? \n 1 - Yes \n 2 - No \n")
         if x == "1":
             sleep(1)
